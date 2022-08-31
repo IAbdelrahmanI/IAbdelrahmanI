@@ -1,6 +1,6 @@
-### Hi there 👋
+### I am Abdelrahman Ayman 👋
 
-- 🔭 Working on flight controllers.
+- 🔭 An aerospace engineer working on flight controllers.
 - 🌱 I’m currently learning advanced embedded systems.
 - 👯 I’m looking to collaborate on autonomy projects related to aircrafts.
 - 🤔 I’m looking for help with mechanics.
