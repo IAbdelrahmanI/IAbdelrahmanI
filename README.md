@@ -2,7 +2,7 @@
 
 - 🔭 An aerospace engineer working on flight controllers.
 - 🌱 I’m currently learning advanced embedded systems.
-- 👯 I’m looking to collaborate on autonomy projects related to aircrafts.
+- 🤝 I’m looking to collaborate on autonomy projects related to aircrafts.
 - 🤔 I’m looking for help with circuit diagrams.
 - 💬 Ask me for freelancing about flight control projects.
 - 📫 Email me: abdelrahmanayman100@gmail.com
